@@ -1,0 +1,10 @@
+{
+  "name": "sportkart-root",
+  "version": "1.0.0",
+  "description": "SportKart - Smart Hyperlocal Sports E-commerce Platform",
+  "scripts": {
+    "dev:backend": "cd backend && npm start",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build:frontend": "cd frontend && npm run build"
+  }
+}
